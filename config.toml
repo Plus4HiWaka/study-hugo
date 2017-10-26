@@ -1,0 +1,15 @@
+contentDir = "content"
+layoutDir = "layouts"
+bulidDrafts = false
+baseURL = "https://plus4hiwaka.github.io/study-hugo/"
+canonifyURLs = true
+languageCode = "ja"
+title = "Study Hugo Blog"
+theme ="hugo-zen"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  author = "Plus4HiWaka"
